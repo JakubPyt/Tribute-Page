@@ -60,3 +60,13 @@ section div#tribute-info{
 section div#tribute-info h1{
     text-align: center;
 }
+footer{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    background-color: lightgrey;
+    border: 2px dashed black;
+    border-radius: 30% 30% 10% 10%;
+    margin-top: 1%;
+    height: 5%;
+    width: 100%;
+}
