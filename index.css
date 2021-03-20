@@ -21,3 +21,13 @@ article div#img-div{
     display: flex;
     flex-direction: column;
 }  
+article div#img-div img#image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    width: 75%;
+    border-radius: 10px 10px 0px 0px;
+    border-bottom: 0px;
+    
+}
