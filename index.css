@@ -1,7 +1,7 @@
 /* You can use the font from google fonts:  
 font-family: 'Indie Flower', cursive; */
 body{
-    background-color: #99738E;
+    background-color: #eac5ff;
 }
 header h1#title{
     font-family: 'Indie Flower', cursive;
@@ -36,6 +36,7 @@ article div#img-div img#image{
 article div#img-div div#img-caption{
     display: block;
     margin-top: 0%;
+    border: 1px solid;
     border-radius: 0px 0px 10px 10px;
     background-color: lightgrey;
 }
