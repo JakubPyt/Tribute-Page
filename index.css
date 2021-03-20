@@ -1,2 +1,8 @@
 /* You can use the font from google fonts:  
 font-family: 'Indie Flower', cursive; */
+header h1#title{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 0%;
+}
